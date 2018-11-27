@@ -1,0 +1,12 @@
+user-web/.settings/
+user-service/.settings/
+user-rely/.settings/
+.settings/
+.project
+user-rely/.classpath
+user-service/.classpath
+user-web/.classpath
+.idea/
+*.iml
+*.target
+
