@@ -1,4 +1,4 @@
-package com.geek.jvm.controller;
+package com.jvm.memory.controller;
 
 public class IdWorker {
 

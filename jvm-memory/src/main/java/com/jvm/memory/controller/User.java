@@ -1,4 +1,4 @@
-package com.geek.jvm.controller;
+package com.jvm.memory.controller;
 
 public class User {
     private String name;
@@ -7,6 +7,9 @@ public class User {
     public User(String name, int age) {
         this.name = name;
         this.age = age;
+    }
+
+    public User() {
     }
 
     public String getName() {
@@ -23,5 +26,9 @@ public class User {
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    public void sout() {
+        System.out.println(" ****** 我是自己的类加载器 ****** ");
     }
 }

@@ -6,9 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="jvm-memory" />
         <module name="jvmmemoryoptimization" />
         <module name="memoryoptimization" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jvmmemoryoptimization" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
