@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5868316-ae63-49ef-8478-b06c6dbc198b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/ClassLoaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/JdkClassLoderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/MyClassLoaderDestoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/MyClassLoaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/User1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/jvm.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jvm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/jvm/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/jvm/controller/IdWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/IdWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/jvm/controller/MemoryOutOOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/MemoryOutOOM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/jvm/controller/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/geek/jvm/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/jvm/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geek/jvm/App.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -103,7 +87,7 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="java" value="721" />
-          <entry key="md" value="1565" />
+          <entry key="md" value="1882" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -111,7 +95,7 @@
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="JAVA" value="721" />
-          <entry key="Markdown" value="1565" />
+          <entry key="Markdown" value="1882" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -141,8 +125,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="340">
-                <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+              <first_editor relative-caret-position="538">
+                <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               </first_editor>
               <second_editor />
             </state>
@@ -153,8 +137,8 @@
         <entry file="file://$PROJECT_DIR$/docs/jvm.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="396">
-                <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+              <first_editor relative-caret-position="538">
+                <caret line="138" column="25" selection-start-line="138" selection-start-column="25" selection-end-line="138" selection-end-column="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -173,7 +157,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/MyClassLoaderDestoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1049">
+            <state relative-caret-position="797">
               <caret line="84" selection-start-line="84" selection-end-line="84" />
             </state>
           </provider>
@@ -292,7 +276,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/geek/jvm/App.java" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/MemoryOutOOM.java" />
         <option value="$PROJECT_DIR$/jvm-memory/pom.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/ClassLoaderTest.java" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/JdkClassLoderTest.java" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/User.java" />
@@ -301,6 +284,7 @@
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/MyClassLoaderDestoryTest.java" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/StringTest.java" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/String.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/jvm.md" />
       </list>
     </option>
@@ -339,10 +323,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -464,7 +448,7 @@
     <property name="SearchEverywhereHistoryKey" value="appClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;appc&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578568729807" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578637684639" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -605,18 +589,18 @@
       <workItem from="1543563275919" duration="2951000" />
       <workItem from="1557747706509" duration="659000" />
       <workItem from="1578476340226" duration="5811000" />
-      <workItem from="1578542389023" duration="17108000" />
+      <workItem from="1578542389023" duration="20618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59234000" />
+    <option name="totallyTimeSpent" value="62744000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2794562" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1970181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -632,9 +616,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32972974" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.67784876" weight="0.24324325" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.67784876" visible="true" weight="0.16108108" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3221512" side_tool="true" weight="0.6097297" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946752" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946752" weight="0.0" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32972974" />
@@ -814,20 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/JdkClassLoderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/ClassLoaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jvm-memory/target/classes/com/jvm/memory/controller/User1.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -846,17 +816,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/MyClassLoaderDestoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1049">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/User1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/ClassLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/JdkClassLoderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -879,11 +856,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/MyClassLoaderDestoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="340">
-            <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <first_editor relative-caret-position="538">
+            <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           </first_editor>
           <second_editor />
         </state>
@@ -892,8 +876,8 @@
     <entry file="file://$PROJECT_DIR$/docs/jvm.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="396">
-            <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+          <first_editor relative-caret-position="538">
+            <caret line="138" column="25" selection-start-line="138" selection-start-column="25" selection-end-line="138" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
