@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/jvm-memory/pom.xml" />
+        <option value="$PROJECT_DIR$/memory-class/pom.xml" />
       </list>
     </option>
   </component>

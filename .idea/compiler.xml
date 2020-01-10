@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="jvm-memory" />
         <module name="jvmmemoryoptimization" />
+        <module name="memory-class" />
         <module name="memoryoptimization" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jvmmemoryoptimization" target="1.7" />
+      <module name="memeory-loader" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

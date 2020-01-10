@@ -33,3 +33,8 @@
  
 ### jvm的参数简单了解
 
+ | ID | Problem  | Article | 
+ | --- | ---   | :--- |
+ | 000 |JVM简单参数 | [解决思路](/docs/jvmparam.md) |
+ | 001 |JVM进阶参数 | [解决思路](/docs/jvmparam.md) |
+ | 002 |一些参数使用方式 | [解决思路](/docs/jvmparam.md) |
