@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5868316-ae63-49ef-8478-b06c6dbc198b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/service/Metaspace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/utils/StringFromUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory-class/src/main/java/com/memoryclass/memoryclass/classLoaderT/JdkClassLoderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/jvmparam.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm-memory/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jvm-memory/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/ClassLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/memory-class/src/main/java/com/memoryclass/memoryclass/classLoaderT/ClassLoaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/JdkClassLoderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/MyClassLoaderDestoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/memory-class/src/main/java/com/memoryclass/memoryclass/classLoaderT/MyClassLoaderDestoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/MyClassLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/memory-class/src/main/java/com/memoryclass/memoryclass/classLoaderT/MyClassLoaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/String.java" beforeDir="false" afterPath="$PROJECT_DIR$/memory-class/src/main/java/com/memoryclass/memoryclass/classLoaderT/String111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/MemoryOutOOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/MemoryOutOOMController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/jvm/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/jvm/controller/IdWorker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/jvm/controller/MemoryOutOOM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/jvm/controller/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geek/jvm/AppTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -112,16 +95,16 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="dummy" value="10" />
-          <entry key="java" value="895" />
-          <entry key="md" value="1969" />
+          <entry key="java" value="907" />
+          <entry key="md" value="2717" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="895" />
-          <entry key="Markdown" value="1969" />
+          <entry key="JAVA" value="907" />
+          <entry key="Markdown" value="2717" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="XML" value="3" />
         </counts>
@@ -130,7 +113,7 @@
         <counts>
           <entry key="class" value="4" />
           <entry key="java" value="34" />
-          <entry key="md" value="2" />
+          <entry key="md" value="5" />
           <entry key="properties" value="1" />
           <entry key="xml" value="4" />
         </counts>
@@ -139,7 +122,7 @@
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="JAVA" value="34" />
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="5" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="4" />
         </counts>
@@ -148,11 +131,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/MemoryOutOOMController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="46" column="35" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="35" />
+            <state relative-caret-position="333">
+              <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
               <folding>
                 <element signature="e#456#466#0" expanded="true" />
               </folding>
@@ -161,8 +144,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/memory-class/src/main/java/com/memoryclass/memoryclass/classLoaderT/ClassLoaderTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/docs/jvm.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="304">
+                <caret line="156" column="33" selection-start-line="156" selection-start-column="33" selection-end-line="156" selection-end-column="33" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="388">
+                <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/jvmparam.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="136">
+                <caret line="59" column="10" lean-forward="true" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -250,7 +264,6 @@
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/StringTest.java" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/classLoaderT/String.java" />
         <option value="$PROJECT_DIR$/docs/jvm.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/MemoryOutOOM.java" />
         <option value="$PROJECT_DIR$/jvm-memory/pom.xml" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/service/MemoryController.java" />
@@ -262,6 +275,8 @@
         <option value="$PROJECT_DIR$/memeory-loader/pom.xml" />
         <option value="$PROJECT_DIR$/memory-class/src/main/java/com/memoryclass/memoryclass/classLoaderT/MyClassLoaderDestoryTest.java" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/MemoryOutOOMController.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/docs/jvmparam.md" />
       </list>
     </option>
   </component>
@@ -322,80 +337,6 @@
               <item name="memoryoptimization" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="memoryoptimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memoryoptimization" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm-memory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memoryoptimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memoryoptimization" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm-memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memoryoptimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memoryoptimization" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm-memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memoryoptimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memoryoptimization" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm-memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memoryoptimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memoryoptimization" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm-memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memoryoptimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memoryoptimization" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm-memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memoryoptimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memoryoptimization" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm-memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memoryoptimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memoryoptimization" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm-memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memoryoptimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memoryoptimization" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm-memory" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -415,7 +356,7 @@
     <property name="SearchEverywhereHistoryKey" value="appClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;appc&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578653262956" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578728994378" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -565,12 +506,12 @@
       <workItem from="1543563275919" duration="2951000" />
       <workItem from="1557747706509" duration="659000" />
       <workItem from="1578476340226" duration="5811000" />
-      <workItem from="1578542389023" duration="27510000" />
+      <workItem from="1578542389023" duration="32425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69636000" />
+    <option name="totallyTimeSpent" value="74551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -586,13 +527,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.21837838" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8312034" visible="true" weight="0.3718919" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8312034" weight="0.3718919" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8604899" weight="0.22486487" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32972974" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.67784876" weight="0.41405407" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.67784876" visible="true" weight="0.41405407" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3221512" side_tool="true" weight="0.6097297" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946752" weight="0.32972974" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -607,7 +548,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.49913943" visible="true" weight="0.32960597" />
+      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.49913943" weight="0.32960597" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -792,26 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/jvm.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="538">
-            <caret line="156" column="33" selection-start-line="156" selection-start-column="33" selection-end-line="156" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="202">
-            <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/service/MemoryController.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -908,11 +829,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/controller/MemoryOutOOMController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="46" column="35" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="35" />
+        <state relative-caret-position="333">
+          <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
           <folding>
             <element signature="e#456#466#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/jvm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="304">
+            <caret line="156" column="33" selection-start-line="156" selection-start-column="33" selection-end-line="156" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="388">
+            <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/jvmparam.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="136">
+            <caret line="59" column="10" lean-forward="true" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

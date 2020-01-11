@@ -38,3 +38,11 @@
  | 000 |JVM简单参数 | [解决思路](/docs/jvmparam.md) |
  | 001 |JVM进阶参数 | [解决思路](/docs/jvmparam.md) |
  | 002 |一些参数使用方式 | [解决思路](/docs/jvmparam.md) |
+ 
+### 线上生产定位问题
+
+| ID | Problem  | Article | 
+ | --- | ---   | :--- |
+ | 000 |如何导出内存溢出文件 | [解决思路](/docs/jvmparam.md) |
+ | 001 |如何分析内存溢出文件 | [解决思路](/docs/jvmparam.md) |
+ | 002 |如何定位cpu飙高问题 | [解决思路](/docs/jvmparam.md) |
