@@ -46,3 +46,12 @@
  | 000 |如何导出内存溢出文件 | [解决思路](/docs/jvmparam.md) |
  | 001 |如何分析内存溢出文件 | [解决思路](/docs/jvmparam.md) |
  | 002 |如何定位cpu飙高问题 | [解决思路](/docs/jvmparam.md) |
+
+### JVM整体结构分析
+
+| ID | Problem  | Article | 
+ | --- | ---   | :--- |
+ | 000 |栈运行机制 | [解决思路](/docs/jvmstack.md) |
+ | 001 |JVM整体结构 | [解决思路](/docs/jvmstack.md) |
+ | 002 |栈内存溢出问题--栈深度问题 | [解决思路](/docs/jvmstack.md) |
+ | 003 |JVM内存调优初步认识 | [解决思路](/docs/jvmstack.md) |

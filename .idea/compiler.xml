@@ -6,15 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jvm-memory" />
+        <module name="memoryoptimization" />
         <module name="jvmmemoryoptimization" />
         <module name="memory-class" />
-        <module name="memoryoptimization" />
+        <module name="memoryclass" />
+        <module name="memory" />
+        <module name="jvm-memory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jvmmemoryoptimization" target="1.7" />
       <module name="memeory-loader" target="1.5" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="memory" options="-parameters" />
+      <module name="memoryclass" options="-parameters" />
+    </option>
   </component>
 </project>
