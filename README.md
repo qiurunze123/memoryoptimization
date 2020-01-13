@@ -39,13 +39,14 @@
  | 001 |JVM进阶参数 | [解决思路](/docs/jvmparam.md) |
  | 002 |一些参数使用方式 | [解决思路](/docs/jvmparam.md) |
  
-### 线上生产定位问题
+### 线上生产定位问题（com.jvm.memory.controller 为演示死锁和内存溢出）
 
 | ID | Problem  | Article | 
  | --- | ---   | :--- |
  | 000 |如何导出内存溢出文件 | [解决思路](/docs/jvmparam.md) |
  | 001 |如何分析内存溢出文件 | [解决思路](/docs/jvmparam.md) |
  | 002 |如何定位cpu飙高问题 | [解决思路](/docs/jvmparam.md) |
+
 
 ### JVM整体结构分析
 
@@ -55,3 +56,12 @@
  | 001 |JVM整体结构 | [解决思路](/docs/jvmstack.md) |
  | 002 |栈内存溢出问题--栈深度问题 | [解决思路](/docs/jvmstack.md) |
  | 003 |JVM内存调优初步认识 | [解决思路](/docs/jvmstack.md) |
+ | 002 |如何定位死锁问题 | [解决思路](/docs/jvmparam.md) |
+
+### JVM  内存模型深入研究
+
+| ID | Problem  | Article | 
+ | --- | ---   | :--- |
+ | 000 |JVM整体结构概览 | [解决思路](/docs/jvmsee.md) |
+ | 001 |JVM如何配合生产环境设置参数 | [解决思路](/docs/jvmsee.md) |
+
