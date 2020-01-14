@@ -23,6 +23,9 @@
 ### 线上生产定位问题（com.jvm.memory.controller 为演示死锁和内存溢出）
 ### jvm的参数简单了解
 ### JVM整体结构分析
+### JVM百万级订单系统调优设置
+### JVM亿级流量系统JVM调优 （我在催牛逼 有不同看法的一起聊聊）
+
 
 | ID | Problem  | Article | 
  | --- | ---   | :--- |
