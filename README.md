@@ -20,6 +20,9 @@
 ## 本项目主要解决以下几个问题??
 
 ### 深入分析类加载机制--在分析JVM之前我们有必要分析一下类加载机制
+### 线上生产定位问题（com.jvm.memory.controller 为演示死锁和内存溢出）
+### jvm的参数简单了解
+### JVM整体结构分析
 
 | ID | Problem  | Article | 
  | --- | ---   | :--- |
@@ -30,38 +33,25 @@
  | 004 |为什么会有双亲委派机制 | [解决思路](/docs/jvm.md) |
  | 005 |如何打破双亲委派机制 | [解决思路](/docs/jvm.md) |
  | 006 |tomcat如何打破双亲委派机制 | [解决思路](/docs/jvm.md) |
- 
-### jvm的参数简单了解
-
- | ID | Problem  | Article | 
- | --- | ---   | :--- |
- | 000 |JVM简单参数 | [解决思路](/docs/jvmparam.md) |
- | 001 |JVM进阶参数 | [解决思路](/docs/jvmparam.md) |
- | 002 |一些参数使用方式 | [解决思路](/docs/jvmparam.md) |
- 
-### 线上生产定位问题（com.jvm.memory.controller 为演示死锁和内存溢出）
-
-| ID | Problem  | Article | 
- | --- | ---   | :--- |
- | 000 |如何导出内存溢出文件 | [解决思路](/docs/jvmparam.md) |
- | 001 |如何分析内存溢出文件 | [解决思路](/docs/jvmparam.md) |
- | 002 |如何定位cpu飙高问题 | [解决思路](/docs/jvmparam.md) |
-
-
-### JVM整体结构分析
-
-| ID | Problem  | Article | 
- | --- | ---   | :--- |
- | 000 |栈运行机制 | [解决思路](/docs/jvmstack.md) |
- | 001 |JVM整体结构 | [解决思路](/docs/jvmstack.md) |
- | 002 |栈内存溢出问题--栈深度问题 | [解决思路](/docs/jvmstack.md) |
- | 003 |JVM内存调优初步认识 | [解决思路](/docs/jvmstack.md) |
- | 002 |如何定位死锁问题 | [解决思路](/docs/jvmparam.md) |
-
-### JVM  内存模型深入研究
-
-| ID | Problem  | Article | 
- | --- | ---   | :--- |
- | 000 |JVM整体结构概览 | [解决思路](/docs/jvmsee.md) |
- | 001 |JVM如何配合生产环境设置参数 | [解决思路](/docs/jvmsee.md) |
-
+ | 007 |JVM简单参数 | [解决思路](/docs/jvmparam.md) |
+ | 008 |JVM进阶参数 | [解决思路](/docs/jvmparam.md) |
+ | 009 |一些参数使用方式 | [解决思路](/docs/jvmparam.md) |
+ | 010 |如何导出内存溢出文件 | [解决思路](/docs/jvmparam.md) |
+ | 011 |如何分析内存溢出文件 | [解决思路](/docs/jvmparam.md) |
+ | 012 |如何定位cpu飙高问题 | [解决思路](/docs/jvmparam.md) |
+ | 013 |如何定位死锁问题 | [解决思路](/docs/jvmparam.md) |
+ | 014 |栈运行机制 | [解决思路](/docs/jvmstack.md) |
+ | 015|JVM整体结构 | [解决思路](/docs/jvmstack.md) |
+ | 016 |栈内存溢出问题--栈深度问题 | [解决思路](/docs/jvmstack.md) |
+ | 017 |JVM内存调优初步认识 | [解决思路](/docs/jvmstack.md) |
+ | 018 |JVM对象逃逸分析| [解决思路](/docs/jvmstack.md) |
+ | 019 |JVM如何配合生产环境设置参数 | [解决思路](/docs/jvmsee.md) |
+ | 020 |百万级流量设置JVM参数 （初始化） | [解决思路](/docs/jvmsee.md) |
+ | 021 |JVM内存分配与回收 | [解决思路](/docs/jvmsee.md) |
+ | 022 |对象优先在Eden区分配 | [解决思路](/docs/jvmsee.md) |
+ | 023 |大对象直接进入老年代 | [解决思路](/docs/jvmsee.md) |
+ | 024 |长期存活的对象会进入老年代 | [解决思路](/docs/jvmsee.md) |
+ | 025 |对象动态年龄判断 | [解决思路](/docs/jvmsee.md) |
+ | 026 |老年代空间分配担保机制 | [解决思路](/docs/jvmsee.md) |
+ | 027 |如何判断对象是否可以被回收 | [解决思路](/docs/jvmsee.md) |
+ | 028 |垃圾收集算法 | [解决思路](/docs/jvmsee.md) |
