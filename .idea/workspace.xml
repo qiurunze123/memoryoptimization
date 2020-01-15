@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5868316-ae63-49ef-8478-b06c6dbc198b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/jvmcollector.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/testStack/TestG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/jvmggggo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jvmcollector.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/jvmcollector.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,38 +25,50 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="java" value="6" />
-          <entry key="md" value="5" />
+          <entry key="md" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="6" />
-          <entry key="Markdown" value="5" />
+          <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="43" />
-          <entry key="md" value="3191" />
+          <entry key="md" value="3608" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="43" />
-          <entry key="Markdown" value="3191" />
+          <entry key="Markdown" value="3608" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="385">
-                <caret line="64" column="46" selection-start-line="64" selection-start-column="46" selection-end-line="64" selection-end-column="46" />
+              <first_editor relative-caret-position="361">
+                <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/jvmggggo.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="438">
+                <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -67,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/docs/jvmsee.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-721">
+              <first_editor relative-caret-position="-2036">
                 <caret line="53" column="36" selection-start-line="53" selection-end-line="54" />
               </first_editor>
               <second_editor />
@@ -75,12 +87,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/jvmcollector.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="70">
-                <caret line="90" column="4" lean-forward="true" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+              <first_editor relative-caret-position="141">
+                <caret line="113" column="4" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -95,15 +107,6 @@
                 <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/testStack/ReferenceCountingGc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -191,8 +194,9 @@
         <option value="$PROJECT_DIR$/docs/jvmsee.md" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/testStack/Math.java" />
         <option value="$PROJECT_DIR$/jvm-memory/src/main/java/com/jvm/memory/testStack/TestG.java" />
-        <option value="$PROJECT_DIR$/docs/jvmcollector.md" />
+        <option value="$PROJECT_DIR$/docs/jvmggggo.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/docs/jvmcollector.md" />
       </list>
     </option>
   </component>
@@ -247,7 +251,7 @@
     <property name="SearchEverywhereHistoryKey" value="appClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;appc&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579063495752" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579085808529" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -441,13 +445,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17985000" />
+    <option name="totallyTimeSpent" value="22894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21148036" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21148036" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -458,12 +461,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.21837838" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8312034" weight="0.30831975" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8604899" visible="true" weight="0.22349103" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8604899" weight="0.22349103" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32972974" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.67784876" weight="0.08972268" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.67784876" visible="true" weight="0.41598696" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3221512" side_tool="true" weight="0.6097297" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946752" weight="0.32972974" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -645,20 +648,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/jvmcollector.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="70">
-            <caret line="90" column="4" lean-forward="true" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/jvmsee.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-721">
+          <first_editor relative-caret-position="-2036">
             <caret line="53" column="36" selection-start-line="53" selection-end-line="54" />
           </first_editor>
           <second_editor />
@@ -668,8 +661,28 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="385">
-            <caret line="64" column="46" selection-start-line="64" selection-start-column="46" selection-end-line="64" selection-end-column="46" />
+          <first_editor relative-caret-position="361">
+            <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/jvmggggo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="438">
+            <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/jvmcollector.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="141">
+            <caret line="113" column="4" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>

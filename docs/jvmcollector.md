@@ -103,3 +103,13 @@ CMS（Concurrent Mark Sweep）收集器是一种以获取最短回收停顿时�
     7. -XX:+CMSScavengeBeforeRemark：在CMS GC前启动一次minor gc，目的在于减少
     老年代对年轻代的引用，降低CMS GC的标记阶段时的开销，一般CMS的GC耗时 80%都在
     remark阶段
+    
+### 如何选择垃圾回收器
+
+    1.优先调整堆得大小让服务器自己来选择
+    2.如果内存小于100M 使用串行收集器
+    3.如果是单核并且没有停顿时间的要求串行或者JVM自己来选择
+    4.如果允许停顿时间超过1s 选择并行会者JVM 自己选
+    5.如果响应时间最重要 并且不超过1s 使用并行收集器
+    
+![图片](https://raw.githubusercontent.com/qiurunze123/imageall/master/jvm1014.png)

@@ -61,5 +61,6 @@
  | 029 |垃圾收集器serial） | [解决思路](/docs/jvmcollector.md) |
  | 030 |垃圾收集器parnew） | [解决思路](/docs/jvmcollector.md) |
  | 031 |垃圾收集器Parallel Scavenge） | [解决思路](/docs/jvmcollector.md) |
- | 032 |垃圾收集器CMS） | [解决思路](/docs/jvmcollector.md) |
- | 033 |亿级流量订单jvm内存调优） | [解决思路](/docs/jvmggggo.md) |
+ | 032 |垃圾收集器CMS | [解决思路](/docs/jvmcollector.md) |
+ | 033 |亿级流量订单jvm内存调优 | [解决思路](/docs/jvmggggo.md) |
+ | 034 |如何选择垃圾收集器 | [解决思路](/docs/jvmcollector.md) |
