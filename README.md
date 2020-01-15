@@ -23,8 +23,8 @@
 ### 线上生产定位问题（com.jvm.memory.controller 为演示死锁和内存溢出）
 ### jvm的参数简单了解
 ### JVM整体结构分析
-### JVM百万级订单系统调优设置
-### JVM亿级流量系统JVM调优 （我在催牛逼 有不同看法的一起聊聊）
+### JVM百万级订单系统调优设置 020 
+### JVM亿级流量系统JVM调优 （我在催牛逼 有不同看法的一起聊聊） 033
 
 
 | ID | Problem  | Article | 
@@ -58,3 +58,8 @@
  | 026 |老年代空间分配担保机制 | [解决思路](/docs/jvmsee.md) |
  | 027 |如何判断对象是否可以被回收 | [解决思路](/docs/jvmsee.md) |
  | 028 |垃圾收集算法 | [解决思路](/docs/jvmsee.md) |
+ | 029 |垃圾收集器serial） | [解决思路](/docs/jvmcollector.md) |
+ | 030 |垃圾收集器parnew） | [解决思路](/docs/jvmcollector.md) |
+ | 031 |垃圾收集器Parallel Scavenge） | [解决思路](/docs/jvmcollector.md) |
+ | 032 |垃圾收集器CMS） | [解决思路](/docs/jvmcollector.md) |
+ | 033 |亿级流量订单jvm内存调优） | [解决思路](/docs/jvmggggo.md) |
